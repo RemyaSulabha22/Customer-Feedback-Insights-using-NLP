@@ -2,7 +2,7 @@
 
 Problem Statement 
 
-
+This project aims to develop an advanced sentiment analysis model using cutting-edge NLP techniques to more accurately process and classify customer reviews on an Ecommerce platform. By capturing subtle linguistic nuances often overlooked by existing tools, such as sarcasm and mixed emotions, the model will provide businesses with deeper insights into customer satisfaction and product performance. Success will be measured by the model's accuracy and its impact on enhancing business decisions and customer engagement strategies.
 Basic sentiment analysis tools struggle with complex language patterns, such as sarcasm and mixed emotions.
 This project aims to enhance sentiment analysis using advanced NLP techniques, focusing on Amazon reviews.
 The goal is to develop a model that captures sentiment nuances more accurately than traditional methods.
